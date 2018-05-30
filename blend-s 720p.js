@@ -131,7 +131,7 @@ function auto_safeconvert() {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = "http://www.galarikinfo.ga/p/test.html?url=" + encryptedUrl;
+            a_to_ve[i].href = "https://drive.google.com/file/d/1YW3tv1Biitu6iYZXkGuuK3xfrGPKtiA3/view?usp=sharing.html?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
